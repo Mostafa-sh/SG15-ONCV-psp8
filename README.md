@@ -3,5 +3,6 @@ This repository provides the SG15 Optimized Norm-Conserving Vanderbilt (ONCV) ps
 
 
 ## References
-<a id="1">[1]</a> M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015). http://dx.doi.org/10.1016/j.cpc.2015.05.011.
+<a id="1">[1]</a> M. Schlipf and F. Gygi, Computer Physics Communications 196, 36 (2015). http://dx.doi.org/10.1016/j.cpc.2015.05.011
+
 <a id="2">[2]</a>  D. R. Hamann, Phys. Rev. B 88, 085117 (2013). http://link.aps.org/doi/10.1103/PhysRevB.88.085117
