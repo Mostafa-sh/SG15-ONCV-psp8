@@ -1,4 +1,4 @@
-N   ONCVPSP-2.1.1   r_core=1.60510 1.51217
+N   ONCVPSP-2.1.1   r_core=    1.60510 1.51217
     7.0000   5.0000   150105   zatom,zion,pspd
     8   11   1   4   600   0   pspcod,pspxc,lmax,lloc,mmax,r2well
     5.99000000   0.00000000   0.00000000   rchrg fchrg qchrg
